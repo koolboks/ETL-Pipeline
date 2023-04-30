@@ -389,7 +389,7 @@ if __name__ == "__main__":
 
     time.sleep(2)
     print()
-    db.bind(provider='mysql', host='europa.ashley.work', user='student_bi32oj', passwd='iE93F2@8EhM@1zhD&u9M@K', db='student_bi32oj')
+    db.bind(provider='mysql', host='europa.ashley.work', user='**************', passwd='*****************', db='*******')
     # Generate the mapping for the table
     # create_tables=True creates the table if it does not exist
     db.generate_mapping(create_tables=True)
